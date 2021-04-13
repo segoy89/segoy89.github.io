@@ -1,2 +1,6 @@
 # segoy89.github.io
-Hi there 👋
+### Hi there 👋
+
+I'm a Ruby on Rails developer 💻 💎 
+
+Currently learning Flutter 📱 🔥 💪
